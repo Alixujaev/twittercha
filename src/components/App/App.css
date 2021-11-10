@@ -1,0 +1,19 @@
+.app{
+  height: 600px;
+  width: 800px;
+  background: #fff;
+  -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.39);
+  -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.39);
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.39);
+  padding: 20px;
+  overflow-y: auto;
+
+}
+
+.search_panel{
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+  margin-bottom: 50px;
+}

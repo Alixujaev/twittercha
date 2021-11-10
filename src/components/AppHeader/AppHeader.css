@@ -1,0 +1,15 @@
+.AppHeader{
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.appheader_h1{
+  font-size: 30px;
+}
+
+.appheader_h2{
+  font-size: 20px;
+  color: #999;
+}

@@ -1,0 +1,14 @@
+.bottom_panel{
+  align-items: center;
+  margin: 20px 0px;
+}
+
+.form_control{
+  width: 90%;
+  outline: none;
+  padding: 5px;
+}
+
+.btn-outline-secondary{
+  width: 100px;
+}

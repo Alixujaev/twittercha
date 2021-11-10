@@ -1,0 +1,45 @@
+.ap_list_item{
+  padding: 20px;
+  margin-bottom: 10px;
+  border-radius: 3px;
+  align-items: center;
+}
+
+.app_list_item_label{
+  font-size: 25px;
+}
+
+.btn_sm{
+  border: none;
+  background: rgb(241, 240, 240);
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px 10px;
+  color: #444;
+}
+
+
+.heart{
+  color: red;
+  display: none;
+}
+
+.show{
+  display: block;
+}
+
+.star,
+.important{
+  color: gold;
+}
+.trash{
+  color: red;
+}
+
+.grey{
+  color: #444;
+}
+
+.app_list_item_label{
+  cursor: pointer;
+}
